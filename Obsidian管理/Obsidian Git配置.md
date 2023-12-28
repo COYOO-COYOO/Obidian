@@ -31,4 +31,4 @@ Jamie@DESKTOP-S0RTM5I MINGW64 /e/Obsidian/COYOO (master)
 $ git config --global user.email 1731540509@qq.com
 ```
 
-
+按时发散
